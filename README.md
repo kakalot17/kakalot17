@@ -13,7 +13,9 @@ I'm not telling who i am, just go to [my site](https://kakalot17.github.io/about
 
 <table>
   <tr align="left">
-    <th colspan="3">Octo Ring</th>
+    <th colspan="3">
+      <a href="https://octo-ring.com">Octo Ring</a>
+    </th>
   </tr>
   <tr>
     <td>
