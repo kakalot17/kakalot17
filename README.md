@@ -1,5 +1,7 @@
 <samp>
 
+Please check https://gist.github.com/kakalot17/c808bd42d347aa204d7d9f22a65be85d, it is my first, imaginary, programming language concept
+
 # # Hello!
 
 Welcome to my github profile. this is where i
