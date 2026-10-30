@@ -1,0 +1,16 @@
+<svg viewbox="0 0 300 300" xmlns="https://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="300" height="300">
+    <div xmlns="https://www.w3.org/1999/xhtml">
+      <link rel="stylesheet" href="https://citrine.daudix.one/style.css"/>
+      <h1>Kakalot</h1>
+      Welcome to my github profile. this is where i
+will <code>code</code> stuff.
+
+      <h2>About me</h2>
+      <div class="card">
+        I'm not telling who i am, just go to <a href="https://kakalot17.github.io">my site.</a>
+      </div>
+      <hr/>
+    </div>
+  </foreignObject>
+</svg>
