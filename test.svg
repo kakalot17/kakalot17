@@ -1,16 +1,33 @@
-<svg viewbox="0 0 300 300" xmlns="https://www.w3.org/2000/svg">
-  <foreignObject x="0" y="0" width="300" height="300">
-    <div xmlns="https://www.w3.org/1999/xhtml">
-      <link rel="stylesheet" href="https://citrine.daudix.one/style.css"/>
-      <h1>Kakalot</h1>
-      Welcome to my github profile. this is where i
-will <code>code</code> stuff.
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    text {
+      transform-box: fill-box;
+      transform-origin: center;
+      animation: 
+        spin 3s linear infinite,
+        rainbow 5s linear infinite
+      ;
+    }
 
-      <h2>About me</h2>
-      <div class="card">
-        I'm not telling who i am, just go to <a href="https://kakalot17.github.io">my site.</a>
-      </div>
-      <hr/>
-    </div>
-  </foreignObject>
+    @keyframes spin {
+      to {
+        transform: rotate(360deg);
+      }
+    }
+    @keyframes rainbow {
+        0% { fill: #ff0000; }
+        17% { fill: #ffff00; }
+        33% { fill: #00ff00; }
+        50% { fill: #00ffff; }
+        67% { fill: #0000ff; }
+        83% { fill: #ff00ff; }
+        100% { fill: #ff0000; }
+    }
+  </style>
+
+  <text x="100" y="100"
+        text-anchor="middle"
+        dominant-baseline="middle">
+    Hello there.
+  </text>
 </svg>
